@@ -1,0 +1,45 @@
+h3, h4{
+    text-decoration: underline;
+}
+
+h4{
+    text-decoration-style: solid;
+    text-decoration-color: yellow;
+}
+
+h3{
+    text-decoration-style: dashed;
+}
+
+p,  h3, li, h4, figcaption{
+    font-family: sans-serif;
+    font-size: 1.1em;
+}
+
+figure {
+    text-align: center;
+}
+
+#section1, #section2 {
+    margin-left: 2%;
+    margin-right: 3%;
+}
+
+        
+#img1{
+    float: right;
+    margin-left: 1%;
+}
+
+#img2{
+    float: left;
+    margin-right: 1%;
+}
+
+img{
+    width: 12%;
+}
+
+.child, article{
+    margin-left: 2%;
+}

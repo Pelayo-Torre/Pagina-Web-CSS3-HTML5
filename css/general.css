@@ -1,0 +1,82 @@
+#h21 {
+    margin-top: -1.6%;
+    margin-left: 2%;
+    margin-right: 3%;
+}
+
+h2{
+    font-family: Verdana, sans-serif;
+}
+
+body{
+    background-image: url("https://us.123rf.com/450wm/hurvajs11/hurvajs111609/hurvajs11160900011/62297840-la-alta-calidad-de-madera-de-alta-resoluci%C3%B3n-textura-perfecta-parte-de-madera-oscura-de-parqu%C3%A9-fibra-de-m.jpg?ver=6");
+    background-position: center;
+}
+
+/* MENÚ DE NAVEGACIÓN */
+nav > ul {
+    list-style: none;
+    background-color: burlywood;
+    border: 2px solid #E0490B;
+    padding: 0;
+}
+
+nav li{
+    color: antiquewhite;
+    font-size: 100%;
+    display: inline-block;
+}
+
+nav a{
+    display: block;
+    font-family: "Noto Sans", sans-serif;
+    color: brown;
+    font-weight: 800;
+    padding: 0.4em 0.7em;
+}
+
+nav a:link{
+    text-decoration: none;
+}
+
+nav a:hover {
+    background-color:  #E0980B;
+}
+
+nav a:visited{
+    color:#FF5541;
+}
+
+h1, h2, h3, h4, h5, p, li, figcaption, address {
+    color: white;
+}
+
+h1{
+    margin-left: 2%;
+    margin-right: 3%;
+    font-family:Verdana, sans-serif;
+}
+
+.titSection{
+    margin-left: 2%;
+    margin-right: 3%;
+}
+
+footer{
+    display: flex;
+    flex-flow: row wrap;
+    margin-right: 3%;
+    margin-left: 2%;
+    justify-content: space-around;
+    padding: 7px;
+    background-color: #85433E;
+}
+
+#eii{
+    width: 70%;
+}
+
+h5{
+    font-family: sans-serif;
+    font-size: 1.1em;
+}
